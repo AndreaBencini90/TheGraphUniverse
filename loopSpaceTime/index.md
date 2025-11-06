@@ -15,34 +15,49 @@ Le opere fondono **ricerca scientifica e visione artistica**, invitando a vedere
 
 ### Quantum Graphity 
 
-Ogni nodo rappresenta un quanto di spazio, e la loro interazione dipende dalla distanza e da una “temperatura” che regola il grado di disordine.
-Nel raffreddamento del sistema, i legami si riorganizzano in modo spontaneo dando origine a una geometria coerente, in cui il caos iniziale si trasforma in struttura:
-una tessitura quantistica dello spazio-tempo che vibra tra caso e necessità.
+Ogni nodo rappresenta un quanto di spazio, e le connessioni tra di essi nascono in base alla distanza e a una “temperatura” che misura il grado di disordine del sistema.
+Quando il sistema si “raffredda”, le connessioni casuali cominciano a organizzarsi spontaneamente: dal caos iniziale emerge una geometria coerente, dove la trama delle relazioni diventa ordine.
+È una tessitura quantistica dello spazio-tempo, un equilibrio vibrante tra caso e necessità.
 
-### Perché uso una curva “tipo Fermi–Dirac” per le connessioni
+Perché uso una curva “tipo Fermi–Dirac” per le connessioni
 
-Nel modello, la **probabilità che due punti dello spazio si connettano** segue la stessa legge matematica che, in fisica statistica, descrive come le **particelle quantistiche (i fermioni)** si distribuiscono nei livelli di energia:  
-la **distribuzione di Fermi–Dirac**.
+Nel modello, la probabilità che due punti dello spazio si connettano segue la stessa legge matematica che, in fisica statistica, descrive come le particelle quantistiche (i fermioni) si distribuiscono nei livelli di energia:
+la distribuzione di Fermi–Dirac.
 
+In un sistema reale di fermioni, questa formula indica la probabilità che un livello energetico sia occupato:
 
-In un questa formula indica la probabilità che un livello energetico sia occupato:
+gli stati a bassa energia (più stabili) sono quasi sempre occupati;
 
-- gli **stati a bassa energia** (più “comodi”) sono quasi sempre occupati;  
-- quelli a **energia più alta** sono quasi sempre vuoti;  
-- la transizione tra i due comportamenti è regolata dalla **temperatura \(T\)**, che ne smussa i confini.
+quelli a energia più alta restano quasi sempre vuoti;
 
-Nel mio modello la logica è analoga, ma gli **stati energetici diventano distanze spaziali**:
+la temperatura 
+𝑇
+T controlla la morbidezza della transizione tra i due comportamenti.
 
-- i **punti vicini** (piccola \(d\)) sono come **stati a bassa energia**, più “favorevoli” alla connessione;  
-- i **punti lontani** (grande \(d\)) sono come **stati ad alta energia**, difficili da occupare;  
-- la **temperatura \(T\)** regola il grado di ordine del sistema:
-  - a **bassa \(T\)**, le connessioni avvengono quasi solo tra vicini → *geometria locale e coerente*;  
-  - ad **alta \(T\)**, anche punti lontani possono collegarsi → *caos e perdita di struttura*.
+Nel mio modello la logica è analoga, ma gli stati energetici diventano distanze spaziali:
 
-In questo modo, la stessa legge che nella **meccanica quantistica** governa la distribuzione dei fermioni negli stati energetici diventa qui un modo per descrivere **come nasce la geometria**:  
-non come qualcosa di dato, ma come il risultato statistico di connessioni che **seguono le stesse regole di equilibrio di un sistema quantistico reale**.
+i punti vicini (piccola 
+𝑑
+d) si comportano come stati a bassa energia, più “favorevoli” alla connessione;
 
+i punti lontani (grande 
+𝑑
+d) sono come stati ad alta energia, difficili da occupare;
 
+la temperatura 
+𝑇
+T regola il grado di ordine del sistema:
+
+a bassa 
+𝑇
+T le connessioni avvengono quasi solo tra vicini → geometria locale, coerente;
+
+ad alta 
+𝑇
+T anche punti lontani possono collegarsi → caos e perdita di struttura.
+
+La stessa legge che nella meccanica quantistica governa l’occupazione degli stati energetici diventa qui un modo per descrivere la nascita della geometria stessa:
+non come qualcosa di già dato, ma come l’esito statistico di connessioni che seguono le stesse regole di equilibrio di un sistema quantistico reale.
 ---
 
 ### Reticolo toroidale 2D
