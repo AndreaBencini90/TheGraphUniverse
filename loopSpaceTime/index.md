@@ -28,7 +28,7 @@ la **distribuzione di Fermi–Dirac**.
 p(d) = \frac{1}{1 + e^{(d - r_0)/T}}
 \]
 
-In un **gas di fermioni reale**, questa formula indica la probabilità che un livello energetico sia occupato:
+In un questa formula indica la probabilità che un livello energetico sia occupato:
 
 - gli **stati a bassa energia** (più “comodi”) sono quasi sempre occupati;  
 - quelli a **energia più alta** sono quasi sempre vuoti;  
