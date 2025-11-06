@@ -24,9 +24,6 @@ una tessitura quantistica dello spazio-tempo che vibra tra caso e necessità.
 Nel modello, la **probabilità che due punti dello spazio si connettano** segue la stessa legge matematica che, in fisica statistica, descrive come le **particelle quantistiche (i fermioni)** si distribuiscono nei livelli di energia:  
 la **distribuzione di Fermi–Dirac**.
 
-\[
-p(d) = \frac{1}{1 + e^{(d - r_0)/T}}
-\]
 
 In un questa formula indica la probabilità che un livello energetico sia occupato:
 
