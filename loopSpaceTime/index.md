@@ -19,26 +19,19 @@ Ogni nodo rappresenta un quanto di spazio, e le connessioni tra di essi nascono 
 Quando il sistema si “raffredda”, le connessioni casuali cominciano a organizzarsi spontaneamente: dal caos iniziale emerge una geometria coerente, dove la trama delle relazioni diventa ordine.
 È una tessitura quantistica dello spazio-tempo, un equilibrio vibrante tra caso e necessità.
 
-Perché uso una curva “tipo Fermi–Dirac” per le connessioni
-
 Nel modello, la probabilità che due punti dello spazio si connettano segue la stessa legge matematica che, in fisica statistica, descrive come le particelle quantistiche (i fermioni) si distribuiscono nei livelli di energia:
 la distribuzione di Fermi–Dirac.
 
 In un sistema reale di fermioni, questa formula indica la probabilità che un livello energetico sia occupato:
 
 gli stati a bassa energia (più stabili) sono quasi sempre occupati;
-
 quelli a energia più alta restano quasi sempre vuoti;
 
-la temperatura 
-𝑇
-T controlla la morbidezza della transizione tra i due comportamenti.
+la temperatura 𝑇 controlla la morbidezza della transizione tra i due comportamenti.
 
 Nel mio modello la logica è analoga, ma gli stati energetici diventano distanze spaziali:
 
-i punti vicini (piccola 
-𝑑
-d) si comportano come stati a bassa energia, più “favorevoli” alla connessione;
+i punti vicini si comportano come stati a bassa energia, più “favorevoli” alla connessione;
 
 i punti lontani (grande 
 𝑑
