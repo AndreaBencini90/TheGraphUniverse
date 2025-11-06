@@ -15,44 +15,26 @@ Le opere fondono **ricerca scientifica e visione artistica**, invitando a vedere
 
 ### Quantum Graphity 
 
-Ogni nodo rappresenta un quanto di spazio, e le connessioni tra di essi nascono in base alla distanza e a una “temperatura” che misura il grado di disordine del sistema.
-Quando il sistema si “raffredda”, le connessioni casuali cominciano a organizzarsi spontaneamente: dal caos iniziale emerge una geometria coerente, dove la trama delle relazioni diventa ordine.
+Ogni nodo rappresenta un quanto di spazio, e le connessioni tra di essi nascono in base alla distanza e a una temperatura che misura il grado di disordine del sistema.
+Quando il sistema si raffredda, le connessioni casuali cominciano a organizzarsi spontaneamente: dal caos iniziale emerge una geometria coerente, dove la trama delle relazioni diventa ordine.
 È una tessitura quantistica dello spazio-tempo, un equilibrio vibrante tra caso e necessità.
 
-Nel modello, la probabilità che due punti dello spazio si connettano segue la stessa legge matematica che, in fisica statistica, descrive come le particelle quantistiche (i fermioni) si distribuiscono nei livelli di energia:
-la distribuzione di Fermi–Dirac.
+Nel modello, la probabilità che due punti dello spazio si connettano segue la stessa legge matematica che, in fisica statistica, descrive come le particelle quantistiche (i fermioni) si distribuiscono nei livelli di energia: la distribuzione di Fermi–Dirac.
 
 In un sistema reale di fermioni, questa formula indica la probabilità che un livello energetico sia occupato:
-
-gli stati a bassa energia (più stabili) sono quasi sempre occupati;
-quelli a energia più alta restano quasi sempre vuoti;
-
-la temperatura 𝑇 controlla la morbidezza della transizione tra i due comportamenti.
+gli stati a bassa energia (più stabili) sono quasi sempre occupati, mentre quelli a energia più alta restano quasi sempre vuoti.
+La temperatura controlla la morbidezza della transizione tra i due comportamenti.
 
 Nel mio modello la logica è analoga, ma gli stati energetici diventano distanze spaziali:
+i punti vicini si comportano come stati a bassa energia, più favorevoli alla connessione;
+i punti lontani sono come stati ad alta energia, difficili da occupare.
 
-i punti vicini si comportano come stati a bassa energia, più “favorevoli” alla connessione;
-
-i punti lontani (grande 
-𝑑
-d) sono come stati ad alta energia, difficili da occupare;
-
-la temperatura 
-𝑇
-T regola il grado di ordine del sistema:
-
-a bassa 
-𝑇
-T le connessioni avvengono quasi solo tra vicini → geometria locale, coerente;
-
-ad alta 
-𝑇
-T anche punti lontani possono collegarsi → caos e perdita di struttura.
+La temperatura regola il grado di ordine del sistema:
+a bassa T le connessioni avvengono quasi solo tra vicini → geometria locale e coerente;
+ad alta T anche punti lontani possono collegarsi → caos e perdita di struttura.
 
 La stessa legge che nella meccanica quantistica governa l’occupazione degli stati energetici diventa qui un modo per descrivere la nascita della geometria stessa:
 non come qualcosa di già dato, ma come l’esito statistico di connessioni che seguono le stesse regole di equilibrio di un sistema quantistico reale.
----
-
 ### Reticolo toroidale 2D
 
 **Parametri:** M×N = 12×8 · periodic = true  
