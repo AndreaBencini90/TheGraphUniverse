@@ -13,12 +13,38 @@ Le opere fondono **ricerca scientifica e visione artistica**, invitando a vedere
 
 ## Opere principali
 
-### Quantum Graphity — fase tardiva
+### Quantum Graphity 
 
-**Parametri:** N = 120 · ⟨k⟩ ≈ 5 · r₀ = 0.18 · T = 0.06 · seed = 42  
+Ogni nodo rappresenta un quanto di spazio, e la loro interazione dipende dalla distanza e da una “temperatura” che regola il grado di disordine.
+Nel raffreddamento del sistema, i legami si riorganizzano in modo spontaneo dando origine a una geometria coerente, in cui il caos iniziale si trasforma in struttura:
+una tessitura quantistica dello spazio-tempo che vibra tra caso e necessità.
 
-Rete emergente con kernel di connessione **Fermi–Dirac**, che bilancia località e connettività globale.  
-Evoca la fase “geometrica” della Quantum Graphity, dove il caos si organizza spontaneamente.
+### Perché uso una curva “tipo Fermi–Dirac” per le connessioni
+
+Nel modello, la **probabilità che due punti dello spazio si connettano** segue la stessa legge matematica che, in fisica statistica, descrive come le **particelle quantistiche (i fermioni)** si distribuiscono nei livelli di energia:  
+la **distribuzione di Fermi–Dirac**.
+
+\[
+p(d) = \frac{1}{1 + e^{(d - r_0)/T}}
+\]
+
+In un **gas di fermioni reale**, questa formula indica la probabilità che un livello energetico sia occupato:
+
+- gli **stati a bassa energia** (più “comodi”) sono quasi sempre occupati;  
+- quelli a **energia più alta** sono quasi sempre vuoti;  
+- la transizione tra i due comportamenti è regolata dalla **temperatura \(T\)**, che ne smussa i confini.
+
+Nel mio modello la logica è analoga, ma gli **stati energetici diventano distanze spaziali**:
+
+- i **punti vicini** (piccola \(d\)) sono come **stati a bassa energia**, più “favorevoli” alla connessione;  
+- i **punti lontani** (grande \(d\)) sono come **stati ad alta energia**, difficili da occupare;  
+- la **temperatura \(T\)** regola il grado di ordine del sistema:
+  - a **bassa \(T\)**, le connessioni avvengono quasi solo tra vicini → *geometria locale e coerente*;  
+  - ad **alta \(T\)**, anche punti lontani possono collegarsi → *caos e perdita di struttura*.
+
+In questo modo, la stessa legge che nella **meccanica quantistica** governa la distribuzione dei fermioni negli stati energetici diventa qui un modo per descrivere **come nasce la geometria**:  
+non come qualcosa di dato, ma come il risultato statistico di connessioni che **seguono le stesse regole di equilibrio di un sistema quantistico reale**.
+
 
 ---
 
